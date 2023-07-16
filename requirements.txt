@@ -3,4 +3,4 @@ numpy==1.25.1
 pandas==2.0.3
 scikit-learn==1.3.0
 seaborn==0.12.2
-jupyter notebook
+jupyter notebook==6.5.4
